@@ -1,3 +1,2 @@
 # EDA
-Exploratory Data Analysis
-A group of EDA Projects.
+Exploratory Data Analysis Projects.
